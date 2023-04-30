@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/lesson16/static/css/main.e79677f7.css",
+    "main.js": "/lesson16/static/js/main.20a593d5.js",
+    "static/js/787.3f45cad3.chunk.js": "/lesson16/static/js/787.3f45cad3.chunk.js",
+    "static/media/heart.svg": "/lesson16/static/media/heart.f8ccf87a521fd29b00617b92a28457ef.svg",
+    "static/media/exchange.svg": "/lesson16/static/media/exchange.ea89a24fd105131020ba7da86efceee6.svg",
+    "static/media/download.svg": "/lesson16/static/media/download.a55a361019fde8f23019b7e815239bc6.svg",
+    "static/media/done.svg": "/lesson16/static/media/done.4c9e6bd12ceeab81c9f26b0620b17f21.svg",
+    "static/media/comment.svg": "/lesson16/static/media/comment.d959c2abbb68badc061be5bc97fb32bd.svg",
+    "index.html": "/lesson16/index.html",
+    "main.e79677f7.css.map": "/lesson16/static/css/main.e79677f7.css.map",
+    "main.20a593d5.js.map": "/lesson16/static/js/main.20a593d5.js.map",
+    "787.3f45cad3.chunk.js.map": "/lesson16/static/js/787.3f45cad3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e79677f7.css",
+    "static/js/main.20a593d5.js"
+  ]
+}
